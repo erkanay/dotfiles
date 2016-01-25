@@ -1,6 +1,8 @@
 # My Dotfiles
 
-## Why ? 
+The repository includes my personal configuration files.
+
+###### Why ? 
 
 http://dotfiles.github.io/
 
