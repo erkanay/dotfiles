@@ -2,7 +2,7 @@
 
 The repository includes my personal configuration files.
 
-###### Why ? 
+### Why ? 
 
 http://dotfiles.github.io/
 
