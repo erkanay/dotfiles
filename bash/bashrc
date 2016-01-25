@@ -1,6 +1,4 @@
 # bashrc file
-export WORKON_HOME=/Users/ytu/.virtualenvs
-source /usr/local/bin/virtualenvwrapper.sh
 export WORKON_HOME=$HOME/.virtualenvs
 export PATH="/usr/local/share/python:$PATH"
 export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
