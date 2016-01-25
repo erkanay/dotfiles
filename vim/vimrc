@@ -27,6 +27,7 @@ set undolevels=1000     " 1000 undos
 " Allow backspacing over autoindent, line breaks and start of insert action
 set backspace=indent,eol,start
   
+
 "F10 toggles line numbers
 map <silent> <F10> :set invnumber<cr>
    
