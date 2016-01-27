@@ -3,6 +3,7 @@ export WORKON_HOME=$HOME/.virtualenvs
 export PATH="/usr/local/share/python:$PATH"
 export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
 alias l="ls -al"
+alias rmdir="rm -rf "
 alias fb="git status " # fenerbahce !
 alias ga="git add "
 alias gb="git branch "
